@@ -22,4 +22,4 @@ Customer Data Pre-processing: This repository focuses on Customer Data Pre-proce
 •	Focus on code reusability and reduce boilerplate code.
 •	Implement error handling where appropriate.
 •	Utilize Markdown cells for clear task separation and documentation.
-The repository includes a Jupyter Notebook with the complete code and output cells, demonstrating the data preprocessing and visualization tasks. It also contains various JSON output files generated during t
+The repository includes a Jupyter Notebook with the complete code and output cells, demonstrating the data preprocessing and visualization tasks. It also contains various JSON output files generated during the data processing phase.
